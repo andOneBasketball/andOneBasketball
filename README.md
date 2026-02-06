@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hey there! 👋 I'm SevenK, a passionate blockchain enthusiast and SaaS developer. I love diving deep into the complexities of decentralized systems and creating innovative solutions.
+Hey there! 👋 I'm 0xSevenK, a passionate blockchain enthusiast and SaaS developer. I love diving deep into the complexities of decentralized systems and creating innovative solutions.
 
 ### 🚀 My Skills
 * Technologies: Solidity, Node.js, Golang, Python, Shell
