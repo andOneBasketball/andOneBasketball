@@ -6,7 +6,7 @@ Hey there! 👋 I'm 0xSevenK, a passionate blockchain enthusiast and SaaS develo
 * Interests: DeFi, GameFi, AI
 
 ### 💼 Experience
-* Blockchain Developer at commonwealth - the development of programs for various decentralized applications (dApps) on the Binance Smart Chain
+* Blockchain Developer at commonwealth - the development of programs for various decentralized applications (dApps) on the EVM Chain and Solana
 * Backend development at Sangfor - Backend development of security and cloud computing products
 
 ### 🌱 Currently Learning
