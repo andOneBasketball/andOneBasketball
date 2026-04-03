@@ -2,11 +2,13 @@
 Hey there! 👋 I'm 0xFrok, a passionate blockchain enthusiast and SaaS developer. I love diving deep into the complexities of decentralized systems and creating innovative solutions.
 
 ### 🚀 My Skills
-* Technologies: Solidity, Node.js, Golang, Python, Shell
+* Contract: Solidity(EVM)、Rust(Solana)
+* Backend: Golang, Node.js, Python, Shell
+* Frontend: Experience with Next.js
 * Interests: DeFi, GameFi, AI
 
 ### 💼 Experience
-* Blockchain Developer at commonwealth - the development of programs for various decentralized applications (dApps) on the EVM Chain and Solana
+* Blockchain Developer at Wiseasy - the development of programs for payfi on the EVM Chain and Solana
 * Backend development at Sangfor - Backend development of security and cloud computing products
 
 ### 🌱 Currently Learning
