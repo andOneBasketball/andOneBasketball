@@ -19,4 +19,4 @@ Continued supplementation in the future
 
 ### 📫 Get in Touch
 * Email: hhhhk00791@gmail.com
-* Twitter: @0xSevenK
+* Twitter: @0xFooork
